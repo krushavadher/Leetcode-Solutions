@@ -10,6 +10,7 @@
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
@@ -48,5 +50,6 @@
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
