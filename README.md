@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
