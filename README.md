@@ -26,6 +26,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3794-reverse-string-prefix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [3794-reverse-string-prefix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
