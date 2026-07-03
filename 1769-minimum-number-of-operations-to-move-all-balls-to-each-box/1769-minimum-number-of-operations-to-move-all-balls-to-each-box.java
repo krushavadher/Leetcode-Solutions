@@ -4,8 +4,7 @@ class Solution {
         int[] ans=new int[n];
         for(int i=0;i<n;i++){
             int curr=0;
-            char ch1=boxes.charAt(i);
-            int num=ch1-'0';
+            
            
             for(int j=0;j<n;j++){
                 if(j==i){
