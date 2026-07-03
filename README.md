@@ -70,4 +70,5 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
