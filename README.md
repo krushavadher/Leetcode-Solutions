@@ -14,6 +14,7 @@
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -27,6 +28,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3794-reverse-string-prefix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
