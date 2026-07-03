@@ -21,6 +21,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3895-count-digit-appearances](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
@@ -77,6 +78,7 @@
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3895-count-digit-appearances](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Counting
 |  |
 | ------- |
