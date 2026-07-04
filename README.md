@@ -33,6 +33,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2785-sort-vowels-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -46,6 +47,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [2785-sort-vowels-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
