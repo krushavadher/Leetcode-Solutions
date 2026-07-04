@@ -82,6 +82,7 @@
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3895-count-digit-appearances](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Counting
 |  |
