@@ -87,6 +87,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -100,4 +101,8 @@
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
