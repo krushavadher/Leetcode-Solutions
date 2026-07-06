@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
