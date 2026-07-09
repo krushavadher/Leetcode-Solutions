@@ -26,13 +26,7 @@ class Solution {
 
             }
         }
-        if(st.isEmpty() && st2.isEmpty()){
-            return true;
-        }
-        else if((st.isEmpty() && !st2.isEmpty()) || (!st.isEmpty() && st2.isEmpty())){
-            return false;
-        }
-        else{
+        
             StringBuilder sb=new StringBuilder();
             StringBuilder sb2=new StringBuilder();
 
@@ -44,6 +38,6 @@ class Solution {
             }
             return sb2.toString().equals(sb.toString());
             
-        }
+        
     }
 }
