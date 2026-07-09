@@ -37,6 +37,7 @@
 | [0020-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1678-goal-parser-interpretation](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [3794-reverse-string-prefix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -132,5 +134,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
