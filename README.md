@@ -17,6 +17,7 @@
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -39,6 +40,7 @@
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1678-goal-parser-interpretation](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -136,6 +138,7 @@
 | [0020-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 ## Simulation
 |  |
 | ------- |
