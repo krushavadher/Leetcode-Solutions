@@ -20,6 +20,7 @@
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
