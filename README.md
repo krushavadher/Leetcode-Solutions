@@ -50,6 +50,7 @@
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -66,6 +67,7 @@
 | [0402-remove-k-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -162,6 +164,7 @@
 | [0739-daily-temperatures](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -181,6 +184,7 @@
 | [0402-remove-k-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
