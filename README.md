@@ -49,6 +49,7 @@
 | [0394-decode-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -201,4 +202,8 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
