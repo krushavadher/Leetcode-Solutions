@@ -29,6 +29,7 @@
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -192,6 +193,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -200,6 +202,7 @@
 | [0844-backspace-string-compare](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -238,5 +241,6 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
