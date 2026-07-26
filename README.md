@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
@@ -248,6 +249,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
