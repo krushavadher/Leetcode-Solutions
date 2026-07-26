@@ -17,6 +17,7 @@
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0561-array-partition](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -144,6 +146,7 @@
 | [0007-reverse-integer](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
