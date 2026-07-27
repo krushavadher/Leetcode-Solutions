@@ -18,6 +18,7 @@
 | [0503-next-greater-element-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -273,4 +275,9 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
