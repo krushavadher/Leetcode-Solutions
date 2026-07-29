@@ -296,6 +296,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 ## Data Stream
 |  |
