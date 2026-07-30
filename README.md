@@ -303,6 +303,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
@@ -315,6 +316,7 @@
 | [0234-palindrome-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Data Stream
 |  |
