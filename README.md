@@ -24,6 +24,7 @@
 | [0739-daily-temperatures](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1260-shift-2d-grid](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -173,6 +174,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -205,6 +207,7 @@
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -336,4 +339,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
