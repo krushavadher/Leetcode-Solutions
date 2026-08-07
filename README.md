@@ -45,6 +45,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2104-sum-of-subarray-ranges](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -259,6 +260,7 @@
 | [1544-make-the-string-great](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2104-sum-of-subarray-ranges](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -289,6 +291,7 @@
 | [0901-online-stock-span](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
 | ------- |
