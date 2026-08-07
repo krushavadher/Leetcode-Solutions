@@ -48,6 +48,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -99,6 +100,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -175,6 +178,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
