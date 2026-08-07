@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -228,6 +230,7 @@
 | [0020-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -298,6 +302,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Queue
 |  |
