@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -229,6 +232,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0143-reorder-list) |
@@ -271,6 +275,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
