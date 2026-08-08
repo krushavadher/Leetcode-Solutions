@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0414-third-maximum-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
