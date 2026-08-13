@@ -73,6 +73,7 @@
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
@@ -171,6 +172,7 @@
 | [0217-contains-duplicate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -227,6 +229,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -343,6 +346,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
