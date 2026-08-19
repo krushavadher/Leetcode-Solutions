@@ -53,6 +53,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-sum-of-subarray-ranges](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -143,6 +144,7 @@
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -391,6 +393,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
