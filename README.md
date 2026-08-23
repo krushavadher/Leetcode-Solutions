@@ -48,6 +48,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -305,6 +306,7 @@
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [0904-fruit-into-baskets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
