@@ -43,6 +43,7 @@
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -222,6 +223,7 @@
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
