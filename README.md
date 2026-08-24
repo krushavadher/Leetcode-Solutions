@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -148,6 +149,7 @@
 | [0148-sort-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -212,6 +214,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -247,6 +250,7 @@
 | [0035-search-insert-position](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -266,6 +270,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -305,6 +310,7 @@
 | ------- |
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
