@@ -68,6 +68,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-sum-of-subarray-ranges](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -332,6 +333,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1590-make-sum-divisible-by-p](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1991-find-the-middle-index-in-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Bit Manipulation
 |  |
