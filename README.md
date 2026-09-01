@@ -54,6 +54,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -339,6 +340,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -482,6 +484,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
