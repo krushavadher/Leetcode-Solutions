@@ -84,6 +84,7 @@
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -263,6 +264,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -496,6 +498,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
