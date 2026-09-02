@@ -47,6 +47,7 @@
 | [0946-validate-stack-sequences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -253,6 +254,7 @@
 | [0904-fruit-into-baskets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -327,6 +329,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -481,6 +484,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
