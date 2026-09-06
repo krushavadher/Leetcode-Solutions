@@ -97,6 +97,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
@@ -357,6 +358,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3903-smallest-stable-index-i](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
