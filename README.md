@@ -51,6 +51,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -523,6 +524,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
