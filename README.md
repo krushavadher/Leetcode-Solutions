@@ -86,6 +86,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -171,6 +172,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
@@ -199,6 +201,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
