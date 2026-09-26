@@ -24,13 +24,16 @@ class Solution {
     }
     public int sum(TreeNode root){
         if(root==null)return 0;
-        int left=sum(root.left);
-        int right=sum(root.right);
+        int left=Math.max(sum(root.left),0);
+        int right=Math.max(sum(root.right),0);
 
-        ans=Math.max(Math.max(left+right+root.val,(Math.max(left+root.val,right+root.val))),ans);
+        ans=Math.max(ans,root.val+right+left);
         
 
-        return root.val+Math.max(left,right);
+       return Math.max(left,right)+root.val;
+        
+
+      
     }
    
 }
