@@ -129,6 +129,7 @@
 | [0409-longest-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -564,6 +565,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0901-online-stock-span) |
@@ -650,6 +652,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -666,6 +669,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -684,6 +688,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -697,6 +702,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -721,4 +727,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
