@@ -15,6 +15,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -608,6 +609,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -649,6 +651,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
@@ -697,6 +700,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
@@ -756,6 +760,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
