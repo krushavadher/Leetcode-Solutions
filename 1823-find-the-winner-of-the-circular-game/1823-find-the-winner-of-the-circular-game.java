@@ -1,18 +1,11 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        Queue<Integer> q=new LinkedList<>();
-        for(int i=1;i<=n;i++){
-            q.offer(i);
-        }
+        return h(n,k)+1;
 
-       while(q.size()>1){
+    }
+    public int h(int n,int k ){
+        if(n==1)return 0;
 
-            for(int i=0;i<k-1;i++){               
-                q.offer(q.poll());
-            }
-            
-            q.poll();
-       }
-       return q.peek();
+        return (h(n-1,k)+k)%n;
     }
 }
