@@ -698,6 +698,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -744,6 +745,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## DP on Trees
 |  |
 | ------- |
@@ -795,8 +797,18 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
