@@ -564,6 +564,7 @@
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -707,6 +708,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -756,6 +758,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## DP on Trees
@@ -816,6 +819,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -844,5 +848,10 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
