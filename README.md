@@ -720,6 +720,7 @@
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -771,6 +772,7 @@
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## DP on Trees
 |  |
 | ------- |
@@ -826,6 +828,7 @@
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -835,6 +838,7 @@
 | [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
 | ------- |
