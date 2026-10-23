@@ -1,46 +1,56 @@
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
-        int  n=edges.length;
-
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
-
-        for(int i=0;i<=n;i++){
-            adj.add(new ArrayList<>());
-        }
         int[] ans=new int[2];
-
+        DSU dsu=new DSU(edges.length);
         for(int[] edge:edges){
-
             int u=edge[0];
             int v=edge[1];
-
-            boolean[] visited=new boolean[n+1];
-            if(dfs(u,v,adj,visited)){
+            
+            if(dsu.find(v)==dsu.find(u)){
                 ans=edge;
             }
-            else{
-                adj.get(u).add(v);
-                adj.get(v).add(u);
-            }
+            dsu.union(u,v);
         }
+        
         return ans;
 
-
     }
-    public boolean dfs(int st,int t,ArrayList<ArrayList<Integer>> adj,boolean[] visited){
+    class DSU{
+        int[] p;
+        int[] size;
 
-        if(st==t){
-            return true;
-        }
-        visited[st]=true;
+        DSU(int n){
+            p=new int[n+1];
+            size=new int[n+1];
 
-        for(int nei:adj.get(st)){
-            if(!visited[nei]){
-                if(dfs(nei,t,adj,visited)){
-                    return true;
-                }
+            for(int i=0;i<=n;i++){
+                p[i]=i;
+                size[i]=i;
             }
         }
-        return false;
+
+        int find(int x){
+            if(p[x]==x){
+                return x;
+            }
+            return p[x]=find(p[x]);
+        }
+
+        void union(int u,int v){
+            int pu=find(u);
+            int pv=find(v);
+
+            if(pu==pv){
+                return;
+            }
+            if(size[pu]<size[pv]){
+                p[pu]=pv;
+                size[pv]+=size[pu];
+            }else{
+                p[pv]=pu;
+                size[pu]+=size[pv];
+            }
+
+        }
     }
 }
