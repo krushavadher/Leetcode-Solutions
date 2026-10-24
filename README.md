@@ -43,6 +43,7 @@
 | [0645-set-mismatch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -141,6 +142,7 @@
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -207,6 +209,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -287,6 +290,7 @@
 | [0567-permutation-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -717,6 +721,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -770,6 +775,7 @@
 | [0547-number-of-provinces](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -828,6 +834,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
