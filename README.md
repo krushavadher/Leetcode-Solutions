@@ -126,6 +126,7 @@
 | [0049-group-anagrams](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -268,6 +269,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -768,6 +770,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -884,4 +887,8 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
