@@ -354,6 +354,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
@@ -415,6 +416,7 @@
 | ------- |
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -512,6 +514,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
