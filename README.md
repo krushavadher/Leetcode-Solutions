@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -130,6 +131,7 @@
 | [0032-longest-valid-parentheses](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -329,6 +331,7 @@
 | [0040-combination-sum-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -544,6 +547,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -717,6 +721,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
