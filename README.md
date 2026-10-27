@@ -27,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -256,6 +257,7 @@
 | [0148-sort-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
