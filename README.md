@@ -131,6 +131,7 @@
 | [0076-minimum-window-substring](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -328,6 +329,7 @@
 | [0078-subsets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -435,6 +437,7 @@
 | [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
