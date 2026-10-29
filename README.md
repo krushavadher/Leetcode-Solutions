@@ -65,6 +65,7 @@
 | [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -473,6 +474,7 @@
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2063-vowels-of-all-substrings](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Counting Sort
@@ -579,6 +581,7 @@
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Queue
 |  |
