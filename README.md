@@ -376,6 +376,7 @@
 | [0002-add-two-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -452,6 +453,7 @@
 | [0042-trapping-rain-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -694,6 +696,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/krushavadher/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Quickselect
 |  |
