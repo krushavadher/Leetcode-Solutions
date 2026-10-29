@@ -40,6 +40,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -469,6 +470,7 @@
 | [0198-house-robber](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -883,6 +885,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -978,5 +981,6 @@
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
