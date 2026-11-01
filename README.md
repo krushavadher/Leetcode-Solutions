@@ -158,6 +158,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0516-longest-palindromic-subsequence](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -478,6 +479,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0877-stone-game) |
