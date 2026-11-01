@@ -144,6 +144,7 @@
 | [0076-minimum-window-substring](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -469,6 +470,7 @@
 | [0070-climbing-stairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
