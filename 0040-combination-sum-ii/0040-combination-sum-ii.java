@@ -17,7 +17,7 @@ class Solution {
                 continue;
             }
             if(arr[i]>t){
-                break;
+                 continue;
             }
             curr.add(arr[i]);
             solve(i+1,ans,curr,t-arr[i],arr);
