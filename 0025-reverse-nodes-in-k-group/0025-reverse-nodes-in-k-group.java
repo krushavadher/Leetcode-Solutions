@@ -9,38 +9,33 @@
  * }
  */
 class Solution {
-
-    ListNode rev(ListNode head){
-        if(head==null || head.next==null){
-            return head;
-        }
-        ListNode ans=rev(head.next);
-        head.next.next=head;
-        head.next=null;
-        return ans;
-    }
     public ListNode reverseKGroup(ListNode head, int k) {
+        if(head==null || head.next==null)return head;
+
+        
         ListNode temp=head;
-        
-        for(int i=0;i<k;i++){
-            if(temp==null){
-                return head;
-            }
-            temp=temp.next;
-        }
-        ListNode next=temp;
-        ListNode last=head;
-        for(int i=1;i<k;i++){
-            last=last.next;
-        }
-        last.next=null;
+       for(int i=0;i<k;i++){
+        if(temp==null)return head;
+        temp=temp.next;
+       }
+        ListNode curr=head;
+        ListNode prev=null;
 
-        ListNode r=rev(head);
-        head.next=reverseKGroup(next,k);
+        ListNode grp=head;
 
-        return r;
+         for(int i=0;i<k;i++){
+            ListNode t=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=t;
+        }
+
+        grp.next=reverseKGroup(curr,k);
+        return prev;
+
+
+
         
-    
-    
     }
+   
 }
