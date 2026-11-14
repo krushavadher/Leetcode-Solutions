@@ -3,42 +3,44 @@ class Solution {
         Stack<Integer> st=new Stack<>();
 
         for(char ch:num.toCharArray()){
-            int n=(int)(ch-'0');
+            int n=ch-'0';
+            
             while(!st.isEmpty() && st.peek()>n && k>0){
                 st.pop();
-               
                 k--;
             }
-            
-           
+
             st.push(n);
-            
-        
+
         }
-        while(k>0 && !st.isEmpty()){
+
+        while(k>0){
             st.pop();
             k--;
         }
 
-        StringBuilder sb=new StringBuilder();
-       
-      
-         
-       
-             for(int t:st){
-                sb.append(t);
-            }
-        
-            
-           
-            while(sb.length()>0 && sb.charAt(0)=='0'){
-                sb.deleteCharAt(0);
-            
-            }
-            if(sb.length()==0){
-                return "0";
-            }
-       
-        return sb.toString();
+        String ans="";
+
+        for(int n:st){
+            ans+=String.valueOf(n);
+        }
+        if(ans==""){
+            return "0";
+        }
+
+        String a="";
+
+        int i=0;
+        while(i<ans.length() && ans.charAt(i)=='0' ){
+            i++;
+        }
+
+        if(i>=ans.length()){
+            return "0";
+        }
+        a=ans.substring(i);
+       return a;
+
+
     }
 }
