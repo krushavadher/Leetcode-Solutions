@@ -376,6 +376,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -402,6 +403,7 @@
 | [0070-climbing-stairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
