@@ -84,6 +84,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -415,6 +416,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -455,6 +457,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -681,6 +684,7 @@
 | [0641-design-circular-deque](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -714,6 +718,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Game Theory
 |  |
 | ------- |
