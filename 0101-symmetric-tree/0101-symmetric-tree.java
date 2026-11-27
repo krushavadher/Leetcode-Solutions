@@ -14,27 +14,21 @@
  * }
  */
 class Solution {
-    public boolean isSymmetric(TreeNode root) {
-        
-        if(root==null)return true;
-
-        TreeNode node1=root.left;
-        TreeNode node2=root.right;
-
-        return h(node1,node2);
+   public boolean isSymmetric(TreeNode root) {
+        return solve(root.left,root.right);
 
     }
 
-    public boolean h(TreeNode n1,TreeNode n2){
-        if(n1==null || n2==null){
-            return n1==n2;
-        }
+    boolean solve(TreeNode p,TreeNode q){
+        
 
-       if(n1.val!=n2.val){
-        return false;
-       }
+        if(p==null || q==null)return p==q;
 
-       return h(n1.left,n2.right) && h(n1.right,n2.left);
+        else if(p.val!=q.val)return false;
+
+        return solve(p.left,q.right) && solve(p.right,q.left);
+
+
 
     }
 }
