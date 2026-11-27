@@ -795,6 +795,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -830,6 +831,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -860,6 +862,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -884,6 +887,7 @@
 | [0785-is-graph-bipartite](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/krushavadher/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
