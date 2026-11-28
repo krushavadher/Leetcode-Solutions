@@ -152,6 +152,7 @@
 | [0125-valid-palindrome](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -496,6 +497,7 @@
 | [0120-triangle](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/krushavadher/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
