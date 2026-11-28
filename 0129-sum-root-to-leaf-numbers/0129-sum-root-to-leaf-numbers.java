@@ -14,28 +14,26 @@
  * }
  */
 class Solution {
-    int sum=0;
+  
     public int sumNumbers(TreeNode root) {
-        StringBuilder sb=new StringBuilder();
-
-        solve(root,sb);
-        return sum;
-
+        return solve(root,0);
     }
 
-    void solve(TreeNode root,StringBuilder sb){
+    int solve(TreeNode root,int sum){
 
-        if(root==null)return;
-
-        sb.append(root.val);
+        if(root==null)return 0;
+        sum=sum*10+root.val;
+       
         if(root.left==null && root.right==null){
-            int num=Integer.parseInt(sb.toString());
-            sum+=num;
+            return sum;
+            
         }
 
-        solve(root.left,sb);
-        solve(root.right,sb);
+        int left=solve(root.left,sum);
+        int right=solve(root.right,sum);
 
-        sb.deleteCharAt(sb.length()-1);
+        return left+right;
+
+        
     }
 }
