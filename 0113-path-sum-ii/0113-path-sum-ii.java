@@ -16,33 +16,24 @@
 
 class Solution {
     
-    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        
+   public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans=new ArrayList<>();
 
-        List<Integer> path=new ArrayList<>();
-
-        solve(root,targetSum,path,ans);
-        
+        solve(root,targetSum,ans,new ArrayList<>());
         return ans;
     }
+    void solve(TreeNode root,int targetsum,List<List<Integer>> ans,ArrayList<Integer> curr){
+        
+        if(root==null)return;
+         curr.add(root.val);
 
-    public void solve(TreeNode root,int targetsum,List<Integer> path,List<List<Integer>> ans){
+        if(root.left==null && root.right==null && root.val==targetsum){
+            ans.add(new ArrayList<>(curr));
+        }
 
-            if(root==null)return;
-            
-            path.add(root.val);
-            targetsum-=root.val;
+        solve(root.left,targetsum-root.val,ans,curr);
+        solve(root.right,targetsum-root.val,ans,curr);
+        curr.remove(curr.size()-1);
 
-            if(root.left==null && root.right==null && targetsum==0){
-                ans.add(new ArrayList<>(path));
-            }
-
-            solve(root.left,targetsum,path,ans);
-            solve(root.right,targetsum,path,ans);
-
-            path.remove(path.size()-1);
-
-
-    }   
+    }
 }
